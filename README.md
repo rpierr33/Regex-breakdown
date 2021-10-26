@@ -1,6 +1,8 @@
 # Title (Regex Breakdown / Tutorial )
 
-Introductory paragraph (Regular expressions, better known as REGEX, can be defined or explained as a *sequence of characters with the ability to search through text or strings, and validate it against set, defined conditions or rules.*  REGEX can be used to do data validation, web scraping, or advanced find and replace operation, like changing certain characters or get only email addresses from a document.)
+## Introductory paragraph 
+
+(Regular expressions, better known as REGEX, can be defined or explained as a *sequence of characters with the ability to search through text or strings, and validate it against set, defined conditions or rules.*  REGEX can be used to do data validation, web scraping, or advanced find and replace operation, like changing certain characters or get only email addresses from a document.)
 
 ## Summary
 
