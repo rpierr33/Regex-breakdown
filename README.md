@@ -37,7 +37,7 @@ Here are some common use cases for REGEX, Regular Expressions.\
 an Anchor example is provided as the very first character in the example prodided above, ^. This anchor character lets the computer knows that a match has to occur at the very start of the string.  To put simply, if even one character did not match the terms of the regex when looking at a string, that string would then be invalid.  In an example of the email, without the ^, an email address with brackets in front of it would be considered as a valid email.  However, since the ^ is present, the bracket would have to be removed or the email would be considered as being invalid.\
 
 example - \
-[email@email.com -- invalid          [email@email.com -- valid\
+email@email.com -- invalid          [email@email.com -- valid\
 
 
 ### Quantifiers
